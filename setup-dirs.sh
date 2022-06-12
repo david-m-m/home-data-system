@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# written by D.Meder-Marouelli
+
 cd /home-data
 
 # mosquitto
